@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Datos generados
+*.csv
+*.xlsx
+*.xls
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Builds
+build/
+dist/
+*.egg-info/
+
+# Variables de entorno
+.env

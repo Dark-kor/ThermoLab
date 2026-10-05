@@ -1,0 +1,24 @@
+# ========================================
+# ThermoLab Requirements
+# ========================================
+
+# GUI
+PyQt6>=6.7.0
+
+# Graficas
+pyqtgraph>=0.13.7
+
+# Numerico
+numpy>=2.0.0
+
+# Exportacion Excel
+openpyxl>=3.1.5
+
+# Exportacion CSV
+pandas>=2.2.2
+
+# MCC DAQ
+uldaq>=1.2.1
+
+# Utilidades
+packaging>=24.1
